@@ -88,5 +88,8 @@ Personal group project (team of 2)
 - **Teacher volunteer** at **'Shishugram'**, a girls orphanage in Guwahati, Assam as a part of National Service Scheme
 - Guwahati Half Marathon '19 **" A run to save water"** volunteer.
 
-
+## Contact
+- Phone number : 9676709311
+- Email        : ananya.reddy.kothaa@gmail.com
+- Linkedin     : [Ananya Reddy](https://www.linkedin.com/in/ananyareddy9/)
 
