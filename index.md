@@ -1,11 +1,9 @@
 # Ananya Reddy K
 
 ## Education
-| Institute                               | Degree      | CGPA       | Year       |
-| :---                                    |    :----:   |   :----:   |  ---:      |
-| Indian Institute of Technology Guwahati |    B.Tech   |       8.63 |  2018-2022 |
-| SR Junior College for Girls             | Intermediate| 98.2%      |  2017      |
-| SR High school for Girls                | 10th class  | 10/10      |  2015      |
+- Indian Institute of Technology Guwahati |   B.Tech in Mechanical Engineering   |  8.63/10  |  2018-22 |
+- SR Junior College for Girls             |         Intermediate                 |  98.2%    |  2017    |
+- SR High school for Girls                |         10th class                   |  10/10    |  2015    |
 
 ## Experience
 **Fractal Analytics as an Imagineer - Project intern** (May‘21–Jul‘21)
