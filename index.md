@@ -1,13 +1,44 @@
 # Ananya Reddy K
 
 ## Education
-
+| Institute                               | Degree      | CGPA       | Year       |
+| :---                                    |    :----:   |   :----:   |  ---:      |
+| Indian Institute of Technology Guwahati |    B.Tech   |       8.63 |  2018-2022 |
+| SR Junior College for Girls             | Intermediate| 98.2%      |  2017      |
+| SR High school for Girls                | 10th class  | 10/10      |  2015      |
 
 ## Experience
+Fractal Analytics as an Imagineer - Project intern (May‘21–Jul‘21)
+- Next best action recommendation for maximizing click-through rate was achieved with an accuracy of 89%.
+- Contextual multi-arm bandit model with epsilon greedy and upper confidence bound algorithms was explored.
+- Devised a hybrid model of neural network and contextual MAB using Keras and Tensorflow libraries.
+- Received a pre-placement offer
 
+4i- Labs, IIT Guwahati as ARLE bot developer (Jan’20-Apr’20)						
+- Implemented object-detection in python using real-sense camera and Robotic Operating Systems and performed robotic arm simulation in a virtual workspace using the linux command-line interface and R-viz graphical tool.
 
-## Research and other projects
+Mahindra Logistics Limited as	Project intern (May’20–Jul‘20)
+- Warehouse automation using drones achieved with return on investment of 120% and 30% time-saving.
+- Created accurate 3D depth map for drone using python and unity engine framework to detect discrepancies in inventory stacking norms of Bajaj warehouse. 
+	
+Newton School	as Technical Content Writer (Jan’20–Apr‘20)  										
+-	Created content and tests for interviews in concepts of Data Structure and Algorithm, Databases, and Java script.
 
+## Research and Projects
+Creation of knowledge graphs for low resource Indian languages(Sep’21-Dec'21) : project under Prof. Ashish Anand, Associate Prof., Dept of Computer Science, IIT Guwahati 
+- Creating links between similar entities of English and Hindi Knowledge graphs(KG) from DBpedia to increase resources for the Hindi language 
+- Analyzed Graph Convolutional Networks for improving KG alignment and entity similarity on pre-aligned data.
+
+AI tool development for Parkinson's disease detection using gait analysis (Aug’20–present): research under Prof. Deepak Sharma, Associate Prof., Dept of Mech. Engg., and Biomedical devices and Biomaterials Lab, IIT Guwahati
+- Implemented basic logistic regression, random forest classifier models for Parkinson’s prediction. 
+- Deployed ensemble of CNN and residual network-based architectures like Inception networks and Parallel 1D CNN giving a test accuracy of 95.1%, sensitivity, and specificity of 97.4%.
+- Learnt implications of different metrics and extensively used python libraries
+
+AI applied to Design for Sustainability (July‘21–Sep’21): under Prof. Sharmistha Banerjee, Associate Prof., Dept of Design, IIT Guwahati
+- Performed PEST analysis on sustainable practices in the field of Industry 4.0 with Artificial Intelligence.
+
+Android Cab Sharing App (Mar’20-May’20) : Personal group project (team of 2)                                                                                                    
+- Android app in Java with Google Firebase database.
 
 ## Technical skills
 - Programming languages: C, C++, Python, Java*, MATLAB*
