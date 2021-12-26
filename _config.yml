@@ -4,3 +4,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [My Portfolio]
 description: [Hello! I am Ananya. A few points about myself:- A tech savvy mechanical engineer who is an AI-ML enthusiast. I have worked on diverse projects on robotics, software development and product management. Always ready for a brain teaser.]
+show_downloads: [false]
