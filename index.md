@@ -89,7 +89,7 @@ Personal group project (team of 2)
 - Guwahati Half Marathon '19 **" A run to save water"** volunteer.
 
 ## Contact
-- Phone number : 9676709311
-- Email        : ananya.reddy.kothaa@gmail.com
-- Linkedin     : [Ananya Reddy](https://www.linkedin.com/in/ananyareddy9/)
+- Phone number : **9676709311**
+- Email        : **ananya.reddy.kothaa@gmail.com**
+- Linkedin     : [**Ananya Reddy**](https://www.linkedin.com/in/ananyareddy9/)
 
