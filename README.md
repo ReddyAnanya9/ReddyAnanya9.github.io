@@ -3,7 +3,6 @@ Here is my portfolio website. My portfolio site starts with my introduction and 
 
 **How did you make it?**
 - As I am a beginner, I used the feature of GitHub pages. I chose the **Minimal** theme from the available Jekyll themes in GitHub.
-![a](/images/minimal.png | width = 250)
 - I modified the code of the theme a bit with the help of [guide to minimal-jekyll theme](https://github.com/pages-themes/minimal)
 
 **Why a website??**
