@@ -48,6 +48,17 @@
 *Elementary proficiency
 
 ## Key courses taken
+-	Introduction to Computing	
+-	Programming in Python
+-	Statistics – I & II	
+-	Real and Complex analysis
+-	Computing Lab	
+-	Computational thinking
+-	Multi-variable calculus	
+-	Intelligent systems and Interfaces
+-	Soft Computing	
+-	Deep Learning
+
 
 ## Certifications
 - [Data Structures and Algorithms in C++](https://drive.google.com/drive/folders/1hRqmYp3_1M2s_rORn2gfy075tSuk9-cR?usp=sharing) by Coding Ninjas
