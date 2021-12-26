@@ -3,5 +3,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [My Portfolio]
-description: [Hello! I am **Ananya**. I am a tech savvy mechanical engineer in final year of undergraduate studies. I am an AI-ML enthusiast and have worked on diverse projects on robotics, software development and product management.Always ready for a brain teaser.]
+description: [Hello! I am **Ananya**. I am a tech savvy mechanical engineer in my final year of undergraduate studies. 
+I am an AI-ML enthusiast and have worked on diverse projects on robotics, software development and product management. 
+Always ready for a brain teaser.]
 show_downloads: [false]
