@@ -1,10 +1,23 @@
 # Ananya Reddy K
 
 ## Education
+
+
 ## Experience
+
+
 ## Research and other projects
+
+
 ## Technical skills
+- Programming languages: C, C++, Python, Java*, MATLAB*
+- Database Management system: Oracle*, PostgreSQL*
+- Operating systems: Windows, Linux*
+- Object-Oriented Programming concepts*, Machine Learning, Deep Learning, and Reinforcement Learning* 
+*Elementary proficiency
+
 ## Key courses taken
+
 ## Certifications
 - [Data Structures and Algorithms in C++](https://drive.google.com/drive/folders/1hRqmYp3_1M2s_rORn2gfy075tSuk9-cR?usp=sharing) by Coding Ninjas
 - [IIT Roorkee Data Science Specialization](https://drive.google.com/drive/folders/1dRj76AWo4wVhXvK84sEAW8aZLMczdVch?usp=sharing)
