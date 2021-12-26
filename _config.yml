@@ -3,7 +3,12 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 gem "github-pages", group: :jekyll_plugins
 title: [My Portfolio]
-description: [Hello! I am Ananya. I am a tech savvy mechanical engineer in final year of undergraduate studies. Besides being an AI-ML enthusiast, I have worked on diverse projects ranging from robotics to product management. Always ready for a brain teaser.]
+description: [Hello! I am Ananya, a tech savvy mechanical engineer.
+Key: |
+  email: 21f1002571@student.onlinedegree.iitm.ac.in
+  contact: 9676709311
+  linkedin: 
+]
 show_downloads: [false]
 
 
