@@ -6,7 +6,7 @@ Here is my portfolio website. My portfolio site starts with my introduction and 
 - I modified the code of the theme with the help of [guide to minimal-jekyll theme](https://github.com/pages-themes/minimal)
 - I added the title for the page and a small section about me.
 
-Here is a screenshot of my ![website.](images/website.jpg)
+Here is a screenshot of my website.![website.](images/website.jpg)
 
 **Why a website??**
 - Being a final year undergraduate student placements are crucial. Making a professional resume becomes the first step towards a professional career. A one to two page resume is extremely common place. A graphical resume would be aesthetically and professionally looking and thus, motivated me to make a website for my portfolio.
